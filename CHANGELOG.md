@@ -5,6 +5,7 @@
 - Repository hardening: read-only default token permissions in CI, third-party
   actions pinned to full commit SHAs, CODEOWNERS, and Dependabot version updates
   for GitHub Actions and pip.
+- Group OpenTelemetry packages in Dependabot so they are updated together.
 
 ## 0.1.2
 
