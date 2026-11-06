@@ -31,7 +31,7 @@ dependencies = [
     "opentelemetry-instrumentation==0.58b0",
     "opentelemetry-instrumentation-fastapi==0.58b0",
     "opentelemetry-instrumentation-asgi==0.58b0",
-    "opentelemetry-util-http==0.58b0",
+    "opentelemetry-util-http==0.66b2",
     "opentelemetry-semantic-conventions==0.58b0",
     "opentelemetry-exporter-otlp==1.37.0",
     "opentelemetry-exporter-prometheus==0.58b0",
