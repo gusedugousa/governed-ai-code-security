@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Repository hardening: read-only default token permissions in CI, third-party
+  actions pinned to full commit SHAs, CODEOWNERS, and Dependabot version updates
+  for GitHub Actions and pip.
+
 ## 0.1.2
 
 - Documentation: the lower half of the architecture diagram is described as the target
